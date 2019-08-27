@@ -1,0 +1,11 @@
+1. icons
+2. backgrounds
+3. view 
+4. sub view
+5. subcontents 
+6. Reserved
+
+By follow composition to include layer relationsip, we must draw natural flow like eye track.
+
+
+
